@@ -5,5 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a test branch is quick.
 Creating a new branch is quick and simple.
-LOOK LOOK LOOOKKKK
 Git is a free software ...
